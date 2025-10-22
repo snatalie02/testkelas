@@ -12,6 +12,10 @@ fun Lastpage(){
         Text(
             text="week7lab exerciseiyih"
         )
+
+        Text(
+            text="hellowwgjyjyjukkuuyyj"
+        )
     }
 }
 
