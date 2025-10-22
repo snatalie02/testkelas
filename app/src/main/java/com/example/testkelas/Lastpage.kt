@@ -10,7 +10,7 @@ import com.example.testkelas.ui.theme.TestkelasTheme
 fun Lastpage(){
     Column {
         Text(
-            text="Halo"
+            text="week7lab exerciseiyih"
         )
     }
 }
